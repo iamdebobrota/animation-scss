@@ -71,7 +71,8 @@ function App() {
                   repeat: Infinity,
                   repeatType: "reverse",
                 }}>
-                Are you interested to became a member of our community?
+                Will you be
+                <h1 className="font-serif capitalize p-2 text-red-500 text-6xl">My Valentine?</h1>
                 <motion.span
                   animate={{
                     scale: [1, 1.2, 1],
